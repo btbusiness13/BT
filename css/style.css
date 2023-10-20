@@ -329,7 +329,7 @@ ins {
 }
 
 pre {
-  font-family: "Courier 10 Pitch", Courier, monospace;
+  font-family: " Cairo;
   font-size: var(--font-size-b3);
   margin: 10px 0;
   overflow: auto;
