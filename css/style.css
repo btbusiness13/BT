@@ -207,9 +207,9 @@
   --transition-2: 256ms ease-in-out;
   --transition-3: transform .85s cubic-bezier(.23,1,.32,1),background .3s,border .3s,border-radius .3s,box-shadow .3s;
   --transition-4: all .25s cubic-bezier(.645,.045,.355,1);
-  --font-primary: " Cairo";
-  --font-secondary:  Cairo;
-  --font-alt:  Cairo, Cairo;
+  --font-primary:  Cairo;
+  --font-secondary: Cairo;
+  --font-alt:Cairo;
   --font-size-b1: 24px;
   --font-size-b2: 18px;
   --font-size-b3: 16px;
